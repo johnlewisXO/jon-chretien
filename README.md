@@ -1,4 +1,4 @@
 # jonchretienRebuild
-Rebuild of jonchrretien.com
+Rebuild of jonchretien.com
 
 1 - initialized readme.md
