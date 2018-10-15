@@ -1,6 +1,7 @@
 # jonchretienRebuild
 Rebuild of jonchretien.com
 
+<<<<<<< HEAD
 
 
 ***
@@ -16,3 +17,8 @@ Rebuild of jonchretien.com
 ***
     my project can be found here https://johnlewisxo.github.io/jonchretienRebuild/index.html
 ***
+=======
+1 - initialized readme.md
+2 - introduction of HTML structure - index.html
+3 - addition of project image files
+>>>>>>> 4a00f7e48f6c10cc5188b5f2dcd323200849e316
