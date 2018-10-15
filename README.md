@@ -1,8 +1,6 @@
 # jonchretienRebuild
 Rebuild of jonchretien.com
 
-<<<<<<< HEAD
-
 
 ***
 
@@ -21,4 +19,18 @@ Rebuild of jonchretien.com
 1 - initialized readme.md
 2 - introduction of HTML structure - index.html
 3 - addition of project image files
->>>>>>> 4a00f7e48f6c10cc5188b5f2dcd323200849e316
+
+=======
+
+=======
+
+15-10-2018 - Update
+
+- Basic HTML structure complete
+- css styling implemented
+
+
+N.B! 
+
+- photograph section, grid display error.
+=======
