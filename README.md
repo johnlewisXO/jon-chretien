@@ -2,7 +2,7 @@
 Rebuild of jonchretien.com
 
 
-***
+======
 
 1. created a new repo - portfolio
 2. initialized readme file
@@ -11,16 +11,14 @@ Rebuild of jonchretien.com
 5. created index file - index.html in terminal/ GitBash
 6. created external css file and linked file to index file
 
-***
-***
-    my project can be found here https://johnlewisxo.github.io/jonchretienRebuild/index.html
-***
+======
+
+   My project can be found here https://johnlewisxo.github.io/jonchretienRebuild/index.html
+
 =======
 1 - initialized readme.md
 2 - introduction of HTML structure - index.html
 3 - addition of project image files
-
-=======
 
 =======
 
