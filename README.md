@@ -1,10 +1,9 @@
 # jonchretienRebuild
 Rebuild of jonchretien.com
 
-<<<<<<< HEAD
 
 =======
->>>>>>> ef74bb8968037efd6e7cfa9c5246e51c9ff2dde1
+
 
 ======
 
@@ -17,7 +16,7 @@ Rebuild of jonchretien.com
 
 ======
 
-   My project can be found here https://johnlewisxo.github.io/jonchretienRebuild/index.html
+   
 
 =======
 1 - initialized readme.md
@@ -26,7 +25,7 @@ Rebuild of jonchretien.com
 
 =======
 
-<<<<<<< HEAD
+
 15-10-2018
 
 - worked on final css styling
@@ -46,9 +45,15 @@ Rebuild of jonchretien.com
 - Basic HTML structure complete
 - css styling implemented
 
+======
+
+My project can be found here https://johnlewisxo.github.io/jon-chretien/index.html
+
+======
+
 
 N.B! 
 
 - photograph section, grid display error.
 =======
->>>>>>> ef74bb8968037efd6e7cfa9c5246e51c9ff2dde1
+
