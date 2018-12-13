@@ -1,11 +1,13 @@
-# jonchretienRebuild
-Rebuild of jonchretien.com
+# Jon chretien project rebuild
+
+This project is a rebuild of a web developer project
 
 
-=======
 
 
-======
+
+
+```
 
 1. created a new repo - portfolio
 2. initialized readme file
@@ -14,36 +16,40 @@ Rebuild of jonchretien.com
 5. created index file - index.html in terminal/ GitBash
 6. created external css file and linked file to index file
 
-======
+```
 
-   
+```
 
-=======
 1 - initialized readme.md
 2 - introduction of HTML structure - index.html
 3 - addition of project image files
 
-=======
+```
 
 
-15-10-2018
+
+## 15-10-2018
 
 - worked on final css styling
 - photograph section grid error incomplete
 
 
-=======
 
-16-10-2018 - Update 
+
+## 16-10-2018 - Update 
 
 - completed html structure
 - completed css styling
 - fixed photograph section grid error
-=======
-15-10-2018 - Update
+
+## 15-10-2018 - Update
 
 - Basic HTML structure complete
 - css styling implemented
+
+## 13-12-2018 - Update
+
+
 
 ======
 
